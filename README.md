@@ -1,4 +1,4 @@
-# BPM Tapper
+# BPM Tapper 🥁
 A simple module to find music's BPM by tapping along.  
 Example: https://owenmcateer.github.io/Motus-Art/projects/week_111.html
 
