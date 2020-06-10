@@ -4,7 +4,7 @@ Example: https://owenmcateer.github.io/Motus-Art/projects/week_111.html
 
 ## Usage
 Include the BpmTapper script:  
-`<script src="https://cdn.jsdelivr.net/gh/owenmcateer/BpmTapper/BpmTapper.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/owenmcateer/BpmTapper/bpmTapper.js"></script>`
 
 
 Create a new instance; with your animations FPS
