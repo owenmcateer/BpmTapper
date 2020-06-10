@@ -17,7 +17,7 @@
  * // Returns how many frames per-beat.
  * `bpm.getBpmFps()`
  *
- * // Transistion speed is 1/2 of BPM tick.
+ * // Transition speed is 1/2 of BPM tick.
  * `bpm.getSpeed()`
  *
  * // A BPM start offset for syncing animations.
@@ -78,7 +78,7 @@ class BpmTapper {
   /**
    * Speed
    *
-   * @return {int} Transistion speed is 1/2 of BPM tick.
+   * @return {int} Transition speed is 1/2 of BPM tick.
    */
   getSpeed() {
     return (HALF_PI / this.getBpmFps()) * 2;

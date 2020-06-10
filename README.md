@@ -3,7 +3,7 @@ A simple module to find music's BPM by tapping along.
 Example: https://owenmcateer.github.io/Motus-Art/projects/week_111.html
 
 ## Usage
-Inlcude the BpmTapper script:  
+Include the BpmTapper script:  
 `<script src="https://cdn.jsdelivr.net/gh/owenmcateer/BpmTapper/BpmTapper.js"></script>`
 
 
@@ -21,7 +21,7 @@ Returns the current BPM.
 Returns how many frames per-beat.
 
 **getSpeed()**  
-Transistion speed is 1/2 of BPM tick.
+Transition speed is 1/2 of BPM tick.
 
 **getBpmOffset()**   
 A BPM start offset for syncing animations.
